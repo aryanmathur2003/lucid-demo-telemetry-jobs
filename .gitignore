@@ -1,0 +1,5 @@
+target/
+scala/out/
+scala/project/target/
+scala/project/project/
+.bsp/

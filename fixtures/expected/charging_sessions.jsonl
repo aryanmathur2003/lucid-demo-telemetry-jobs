@@ -1,0 +1,15 @@
+{"session_id":"s-0001","vin":"5LDEMAA0000000001","started_ms":1794502515652,"ended_ms":1794504063155,"duration_s":1547,"energy_wh":24666,"start_soc_pct":16,"end_soc_pct":52,"complete":true}
+{"session_id":"s-0002","vin":"5LDEMAA0000000001","started_ms":1794506399262,"ended_ms":1794507847883,"duration_s":1448,"energy_wh":25050,"start_soc_pct":26,"end_soc_pct":56,"complete":true}
+{"session_id":"s-0003","vin":"5LDEMAA0000000001","started_ms":1794511360983,"ended_ms":1794512912822,"duration_s":1551,"energy_wh":17922,"start_soc_pct":54,"end_soc_pct":83,"complete":false}
+{"session_id":"s-0004","vin":"5LDEMAA0000000002","started_ms":1794504884449,"ended_ms":1794505953565,"duration_s":1069,"energy_wh":17220,"start_soc_pct":19,"end_soc_pct":45,"complete":false}
+{"session_id":"s-0005","vin":"5LDEMAA0000000003","started_ms":1794503573405,"ended_ms":1794505795205,"duration_s":2221,"energy_wh":29845,"start_soc_pct":36,"end_soc_pct":66,"complete":true}
+{"session_id":"s-0006","vin":"5LDEMAA0000000004","started_ms":1794504564190,"ended_ms":1794506304282,"duration_s":1740,"energy_wh":27541,"start_soc_pct":21,"end_soc_pct":50,"complete":true}
+{"session_id":"s-0007","vin":"5LDEMAA0000000004","started_ms":1794507045443,"ended_ms":1794509660944,"duration_s":2615,"energy_wh":34488,"start_soc_pct":12,"end_soc_pct":41,"complete":false}
+{"session_id":"s-0008","vin":"5LDEMAA0000000004","started_ms":1794511865465,"ended_ms":1794513247857,"duration_s":1382,"energy_wh":16543,"start_soc_pct":49,"end_soc_pct":76,"complete":true}
+{"session_id":"s-0009","vin":"5LDEMAA0000000005","started_ms":1794505609602,"ended_ms":1794507267043,"duration_s":1657,"energy_wh":39694,"start_soc_pct":10,"end_soc_pct":58,"complete":true}
+{"session_id":"s-0010","vin":"5LDEMAA0000000005","started_ms":1794510749173,"ended_ms":1794512270352,"duration_s":1521,"energy_wh":14695,"start_soc_pct":12,"end_soc_pct":46,"complete":true}
+{"session_id":"s-0011","vin":"5LDEMAA0000000006","started_ms":1794504038874,"ended_ms":1794505861355,"duration_s":1822,"energy_wh":28672,"start_soc_pct":49,"end_soc_pct":91,"complete":true}
+{"session_id":"s-0012","vin":"5LDEMAA0000000006","started_ms":1794509256291,"ended_ms":1794511403789,"duration_s":2147,"energy_wh":29133,"start_soc_pct":10,"end_soc_pct":40,"complete":true}
+{"session_id":"s-0013","vin":"5LDEMAA0000000007","started_ms":1794504816295,"ended_ms":1794506138254,"duration_s":1321,"energy_wh":19663,"start_soc_pct":11,"end_soc_pct":47,"complete":true}
+{"session_id":"s-0014","vin":"5LDEMAA0000000008","started_ms":1794501938672,"ended_ms":1794504149943,"duration_s":2211,"energy_wh":23915,"start_soc_pct":28,"end_soc_pct":65,"complete":true}
+{"session_id":"s-0015","vin":"5LDEMAA0000000008","started_ms":1794506693524,"ended_ms":1794508674229,"duration_s":1980,"energy_wh":33037,"start_soc_pct":47,"end_soc_pct":93,"complete":false}

@@ -1,0 +1,8 @@
+{"vin":"5LDEMAA0000000001","samples":9,"min_soc_pct":56,"max_pack_temp_dc":406,"last_soc_pct":56,"last_event_time_ms":1794501846626}
+{"vin":"5LDEMAA0000000002","samples":12,"min_soc_pct":33,"max_pack_temp_dc":352,"last_soc_pct":33,"last_event_time_ms":1794502267784}
+{"vin":"5LDEMAA0000000003","samples":12,"min_soc_pct":21,"max_pack_temp_dc":390,"last_soc_pct":21,"last_event_time_ms":1794502516782}
+{"vin":"5LDEMAA0000000004","samples":13,"min_soc_pct":24,"max_pack_temp_dc":413,"last_soc_pct":24,"last_event_time_ms":1794501926746}
+{"vin":"5LDEMAA0000000005","samples":12,"min_soc_pct":54,"max_pack_temp_dc":409,"last_soc_pct":54,"last_event_time_ms":1794502458102}
+{"vin":"5LDEMAA0000000006","samples":8,"min_soc_pct":32,"max_pack_temp_dc":388,"last_soc_pct":32,"last_event_time_ms":1794502103538}
+{"vin":"5LDEMAA0000000007","samples":10,"min_soc_pct":38,"max_pack_temp_dc":402,"last_soc_pct":38,"last_event_time_ms":1794501859385}
+{"vin":"5LDEMAA0000000008","samples":8,"min_soc_pct":43,"max_pack_temp_dc":403,"last_soc_pct":43,"last_event_time_ms":1794500948316}

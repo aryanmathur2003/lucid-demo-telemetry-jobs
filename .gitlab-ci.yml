@@ -11,7 +11,10 @@ rust:
 
 scala:
   stage: test
-  image: sbtscala/scala-sbt:eclipse-temurin-17.0.9_9_1.9.7_2.13.12
+  image: eclipse-temurin:17-jdk
+  before_script:
+    - curl -fsSL https://github.com/sbt/sbt/releases/download/v1.9.7/sbt-1.9.7.tgz | tar xz -C /opt
+    - export PATH="/opt/sbt/bin:$PATH"
   script:
     - cd scala
     - sbt test

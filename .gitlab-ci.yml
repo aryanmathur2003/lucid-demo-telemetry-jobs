@@ -1,0 +1,17 @@
+# GitLab equivalent of .github/workflows/ci.yml, kept in step with it.
+stages:
+  - test
+
+rust:
+  stage: test
+  image: rust:1.82
+  script:
+    - cd rust
+    - cargo test --workspace
+
+scala:
+  stage: test
+  image: sbtscala/scala-sbt:eclipse-temurin-17.0.9_9_1.9.7_2.13.12
+  script:
+    - cd scala
+    - sbt test
